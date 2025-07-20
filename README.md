@@ -1,10 +1,6 @@
 # Level 5 
 
-```dataview
-Table without ID  file.name as "Name" , github as Link , status as Status, file.inlinks as Mentioned
-where file = this.file
-```
----
+
 Task: To configure `git` properly , and explore additional usage of `git log`.
 ## Lets recap 
 Up until you have seen the following commands 
